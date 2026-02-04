@@ -1,10 +1,15 @@
 README – PHP/Oracle Racing Web Application
 
 -**exemple.css**: CSS interface
+
 -**funcions.php**: functions used
+
 -**practicaPHP.html**: home page
+
 -**errorlogin.php**: shows login errors
+
 -**menu.php**: displays menu
+
 -**practicaPHP.sql**: table created for options f1) and f2)
 
 **a) Register a vehicle**
