@@ -19,6 +19,7 @@ If the code already exists, a random 3-digit number is added.
 
 
 **b) Display vehicles**
+
 -mostrarVehicles.php
 
 Shows a list of all vehicles registered in the database.
@@ -26,6 +27,7 @@ Each entry displays the vehicle code, description, color, fuel type, consumption
 100km, and owner's name.
 
 **c) Register in a race**
+
 -inscripcioCursa1.php
 
 -inscripcioCursa2.php
@@ -43,6 +45,7 @@ Checks if the user has enough balance and deducts the race fee.
 Allows multiple registrations until the user finishes.
 
 **d) Enter race times**
+
 -entraTemps1.php
 
 -entraTemps2.php
@@ -56,6 +59,7 @@ If enabled, also updates ceremonies or inspections.
 Time entry is blocked if the ceremony or revision was already done.
 
 **e) View race participants**
+
 -consultarParticipants.php
 
 -consultarParticipants_BD.php
@@ -69,6 +73,7 @@ Displays both vehicle and character info for each pair.
 **-opcioF: lets the user select between f1) and f2) options** 
 
 **f1) Query total Pinky by date (Ceremonies)**
+
 -consultaCerimonies.php
 
 -consultaCerimonies_BD.php
@@ -78,6 +83,7 @@ Returns a list of characters who participated in ceremonies during that range.
 Shows total Pinky consumed per character.
 
 **f2) Query ceremonies by character**
+
 -quantitatPinky.php
 
 -quantitatPinky_BD.php
